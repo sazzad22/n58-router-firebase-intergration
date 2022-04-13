@@ -1,0 +1,26 @@
+.header{
+    margin: 20px 20px 40px 20px;
+}
+
+.header nav a{
+    
+    
+    text-decoration: none;
+    color: rgb(42, 42, 42);
+    font-weight: 600;
+    padding: 10px 30px;
+}
+.header nav a:hover{
+    color: whitesmoke;
+    background-color: goldenrod;
+    border-radius: 10px ;
+    box-shadow: 10px 10px 5px gray;
+    
+
+}
+.header nav a:focus{
+    color: whitesmoke;
+    background-color: rgb(189, 140, 15);
+    border-radius: 10px ;
+    box-shadow: 5px 5px 3px rgb(82, 82, 82);
+}

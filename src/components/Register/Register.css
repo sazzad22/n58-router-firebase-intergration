@@ -1,0 +1,12 @@
+.form-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.form input{
+    display: block;
+    width: 110%;
+    margin-top: 20px;
+    height: 40px;
+    text-align: center;
+}
